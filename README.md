@@ -1,11 +1,35 @@
+----
+<!-- Gif -->
+<div align="center">
+  <img alt-"html5" src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" width="100" title="html">
+  <img alt="css" src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif" width="100" title="css">
+  <img alt="VSCode" src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="100" title="vscode">
+  <img alt="python" src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="100" title="python">
+  <img alt="javascript" src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="100" title="javascript">
+  <img alt="sublime" src="https://media.giphy.com/media/jnDKffgCfGYOp6cMTK/giphy.gif" width="100" title="sublime">
+  <img alt="github" src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="100" title="github">
+  <img alt="node" src="https://media.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif" width="85" title="node">
+</div>
+
+----
+
 ## 关于我(SuYe)
 <!--罗小黑欢迎gif-->
-<img alt="GIF" src="/img/luosmallblack.gif" width = 200/>
-美丽的ZUEL晓南湖畔，住着一只本科在读统计狗U•ェ•U
-
-虽然他读的是统计，但是他非常喜欢<b>coding</b>
-
+<table border=0>
+<tbody>
+ <tr>
+<td align="center" width="33.3%">
+<img src="https://suye.netlify.app/img/luosmallblack.gif"/>
+</td>
+<td align="center">
+美丽的ZUEL晓南湖畔，住着一只本科在读统计狗U•ェ•U<br>
+虽然他读的是统计，但是他非常喜欢<b>coding</b><br>
 他觉得Python+R，可以横扫天下！🚀
+</td>
+</tr>
+</tbody>
+</table>
+
 
 ## 联系方式
 <span><img src="https://img.shields.io/badge/QQ-EB1923?style=for-the-badge&logo=tencent%20qq&logoColor=black" />&emsp; 2395295097
@@ -18,7 +42,7 @@
 
 ### 编程语言
 
-<center>
+
 <table>
 <tbody>
  <tr>
@@ -35,7 +59,7 @@
 </tr>
 </tbody>
 </table>
-</center>
+
 
 ### 常用框架
 <span> 
@@ -67,19 +91,6 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=suye0620&layout=compact&theme=radical" alt="My Github Stats"><br>
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=suye0620&&show_icons=true&theme=radical&count_private=true&include_all_commits=true" alt="My Github Stats">
 </p>
-
-<!-- Gif -->
-----
-<div align="center">
-  <img alt-"html5" src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" width="100" title="html">
-  <img alt="css" src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif" width="100" title="css">
-  <img alt="VSCode" src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="100" title="vscode">
-  <img alt="python" src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="100" title="python">
-  <img alt="javascript" src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="100" title="javascript">
-  <img alt="sublime" src="https://media.giphy.com/media/jnDKffgCfGYOp6cMTK/giphy.gif" width="100" title="sublime">
-  <img alt="github" src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="100" title="github">
-  <img alt="node" src="https://media.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif" width="85" title="node">
-</div>
 
 ----
 <!-- just img -->
