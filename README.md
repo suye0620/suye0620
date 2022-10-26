@@ -9,6 +9,7 @@
   <img alt="sublime" src="https://media.giphy.com/media/jnDKffgCfGYOp6cMTK/giphy.gif" width="100" title="sublime">
   <img alt="github" src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="100" title="github">
   <img alt="node" src="https://media.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif" width="85" title="node">
+  <img alt="cute cat" src="https://github.com/suye0620/suye0620/blob/main/mona-whisper.gif" width="85" title="cutecat">
 </div>
 
 ----
