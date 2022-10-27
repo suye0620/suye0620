@@ -36,7 +36,7 @@
 <span><img src="https://img.shields.io/badge/QQ-EB1923?style=for-the-badge&logo=tencent%20qq&logoColor=black" />&emsp; 2395295097
 </span>
 
-<span><img src="https://img.shields.io/badge/WeChat-07C160?style=for-the-badge&logo=WeChat&logoColor=black" />&emsp; suye_0620
+<span><img src="https://img.shields.io/badge/VX-07C160?style=for-the-badge&logo=WeChat&logoColor=black" />&emsp; suye_0620
 </span>
 
 ## 个人技能💻
