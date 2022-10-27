@@ -9,7 +9,7 @@
   <img alt="sublime" src="https://media.giphy.com/media/jnDKffgCfGYOp6cMTK/giphy.gif" width="100" title="sublime">
   <img alt="github" src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="100" title="github">
   <img alt="node" src="https://media.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif" width="85" title="node">
-  <img alt="cute cat" src="https://github.com/suye0620/suye0620/blob/main/mona-whisper.gif" width="125" title="cutecat">
+  <img alt="cute cat" src="https://suye.netlify.app/img/luosmallblack.gif" width="100" title="cutecat">
 </div>
 
 ----
@@ -20,19 +20,21 @@
 <tbody>
  <tr>
 <td align="center">
-<img src="https://suye.netlify.app/img/luosmallblack.gif"/>
+<img src="https://m1.im5i.com/2022/10/10/UFaDXQ.png" width=200/>
 </td>
 <td>
 美丽的ZUEL晓南湖畔，住着一只本科在读统计狗U•ェ•U<br>
 虽然他读的是统计，但是他非常喜欢<b>coding</b><br>
-
+之前他喜欢熬夜code，现在他立下flag🚩争取以后每天在23:45睡觉<br>
+现在他的研究方向是Web开发，小型AI-Web服务制作和数据挖掘<br>
+梦想是<b>写一点别人可以用得上的代码</b>
 </td>
 </tr>
 </tbody>
 </table>
 
 
-## 联系方式📞
+## 联系方式📫
 <span><img src="https://img.shields.io/badge/QQ-EB1923?style=for-the-badge&logo=tencent%20qq&logoColor=black" />&emsp; 2395295097
 </span>
 
