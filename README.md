@@ -20,7 +20,7 @@
 <tbody>
  <tr>
 <td align="center">
-<img src="https://coze-coding-project.tos.coze.site/coze_storage_7629200113646370856/images/1776747857392_1000017891_45d094d0.jpg?sign=3353547867-c65afc54b7-0-d1433d7796f23f3dc1807ee4e69c989950311e2d3a882abd5a65e1d063a4ee43" width=200/>
+<img src="http://129.211.182.45/static/upload/admin/d162614842925dc337c511f1a0d67d64.jpeg" width=200/>
 </td>
 <td>
 美丽的ZUEL晓南湖畔，住着一只本科在读统计狗U•ェ•U<br>
