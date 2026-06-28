@@ -20,7 +20,7 @@
 <tbody>
  <tr>
 <td align="center">
-<img src="http://129.211.182.45/static/upload/admin/d162614842925dc337c511f1a0d67d64.jpeg" width=200/>
+<img src="https://www.pygeek.club/media/members/img_20260625105502_b51a.png" width=200/>
 </td>
 <td>
 美丽的ZUEL晓南湖畔，住着一只本科在读统计狗U•ェ•U<br>
